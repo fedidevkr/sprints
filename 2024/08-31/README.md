@@ -16,3 +16,7 @@
  -  [Awesome ActivityPub에 Go-ActivityPub 추가](https://github.com/BasixKOR/awesome-activitypub/pull/53)
  -  [Awesome ActivityPub에 Hatsu 추가](https://github.com/BasixKOR/awesome-activitypub/pull/54)
  -  [Awesome ActivityPub에 Hollo 추가](https://github.com/BasixKOR/awesome-activitypub/pull/55)
+
+### 쥬니니 ([@juunini](https://github.com/juunini))
+
+- [참새 README에 `How to pronounce chamsae?` 추가](https://github.com/pbzweihander/chamsae/pull/37)
