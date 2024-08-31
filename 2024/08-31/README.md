@@ -35,9 +35,9 @@
 
  -  [federation 로직에 대한 유닛 테스트 추가](https://github.com/dahlia/hollo/pull/18)
 
-### 고남현 ([@gnh1201](https;//github.com/gnh1201)
+### 고남현 ([@gnh1201](https;//github.com/gnh1201])
 
- - [BinaryPub 소개 및 코드 정리](https;//github.com/gnh1201/BinaryPub)
+ - [BinaryPub 소개 및 코드 정리](https://github.com/gnh1201/BinaryPub)
 
 ### 한바환 ([@ellemedit](https://github.com/ellemedit))
 
@@ -45,6 +45,13 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+
 ### 김수환 ([@tkgka](https;//github.com/tkgka))
 - caterpillar 코드리뷰
 - Mastodon + Misskey API 연동 관련 라이브러리 개발 (현재 [private 레포지토리](https://github.com/nazku-com))
+
+
+### 이태희 ([@devtedlee](https://github.com/devtedlee))
+
+- [게시글 보기 페이지에 좋아요, 공유 보기 뷰 추가](https://github.com/dahlia/hollo/pull/17)
+- [이용자 뮤트 API 및 DB 테이블 추가](https://github.com/dahlia/hollo/pull/23)
