@@ -30,3 +30,7 @@
 
  -  [Docker Compose 지원 추가](https://github.com/dahlia/hollo/pull/16)
  -  [Meilisearch 의존성 제거](https://github.com/dahlia/hollo/pull/19)
+
+### 김현준 ([@d01c2](https://github.com/d01c2))
+
+ -  [federation 로직에 대한 유닛 테스트 추가](https://github.com/dahlia/hollo/pull/18)
