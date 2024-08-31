@@ -45,6 +45,10 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 강응찬 ([@kecan0406](https://github.com/kecan0406))
+
+- [Hollo biome 1.8.3](https://github.com/dahlia/hollo/pull/21)
+
 ### 송한서 ([@HanseoSong](https://github.com/HanseoSong))
 
 - [Awesome ActivityPub에서 중단된 프로젝트들 삭제](https://github.com/BasixKOR/awesome-activitypub/commits?author=HanseoSong)
