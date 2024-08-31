@@ -45,3 +45,6 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 김수환 ([@tkgka](https;//github.com/tkgka))
+- caterpillar 코드리뷰
+- Mastodon + Misskey API 연동 관련 라이브러리 개발 (현재 [private 레포지토리](https://github.com/nazku-com))
