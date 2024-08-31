@@ -45,11 +45,15 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 신의하 ([@xiniha](https://github.com/XiNiHa))
+
+- [Chamsae의 설정 모달에서 Save 버튼 클릭 시 모달이 닫히도록 개선](https://github.com/pbzweihander/chamsae/pull/34)
+- [Fedify를 dnt 없이도 npm에 배포할 수 있도록 구성 (WIP)](https://github.com/dahlia/fedify/pull/129)
 
 ### 김수환 ([@tkgka](https;//github.com/tkgka))
+
 - caterpillar 코드리뷰
 - Mastodon + Misskey API 연동 관련 라이브러리 개발 (현재 [private 레포지토리](https://github.com/nazku-com))
-
 
 ### 이태희 ([@devtedlee](https://github.com/devtedlee))
 
