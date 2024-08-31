@@ -45,6 +45,12 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 이재열 ([@malkoG](https://github.com/malkoG))
+
+자체 개발 PixelFed 클라이언트 QuinJet
+- [masto.js를 응용한 infinity scroll 구현](https://github.com/malkoG/quinjet/pull/7)
+- [프로필 페이지 제작](https://github.com/malkoG/quinjet/pull/8)
+
 ### 강응찬 ([@kecan0406](https://github.com/kecan0406))
 
 - [Hollo biome 1.8.3](https://github.com/dahlia/hollo/pull/21)
