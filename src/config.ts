@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  website: "https://fedidev.kr", // replace this with your deployed domain
+  author: "Fedi Dev KR",
+  profile: "https://fedidev.kr",
+  desc: "한국에 거주하거나 한국어를 사용하는 연합우주(fediverse) 개발자들의 모임입니다.",
   title: "한국 페디버스 개발자 모임",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "fedidevkr.svg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
