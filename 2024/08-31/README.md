@@ -45,6 +45,11 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 송한서 ([@HanseoSong](https://github.com/HanseoSong))
+
+- [Awesome ActivityPub에서 중단된 프로젝트들 삭제](https://github.com/BasixKOR/awesome-activitypub/commits?author=HanseoSong)
+- [Chamsae에 새로운 디자인 제안](https://github.com/pbzweihander/chamsae/issues/38)
+
 ### 신의하 ([@xiniha](https://github.com/XiNiHa))
 
 - [Chamsae의 설정 모달에서 Save 버튼 클릭 시 모달이 닫히도록 개선](https://github.com/pbzweihander/chamsae/pull/34)
