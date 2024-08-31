@@ -20,3 +20,8 @@
 ### 쥬니니 ([@juunini](https://github.com/juunini))
 
 - [참새 README에 `How to pronounce chamsae?` 추가](https://github.com/pbzweihander/chamsae/pull/37)
+
+### 차의서 ([@zeroday0619](https://github.com/zeroday0619))
+
+- [caterpillar 코드 리펙토링](https://github.com/gnh1201/caterpillar/pull/45)
+- [Awesome ActivityPub에서 업데이트가 더이상 없는 프로젝트 제거](https://github.com/BasixKOR/awesome-activitypub/pull/50)
