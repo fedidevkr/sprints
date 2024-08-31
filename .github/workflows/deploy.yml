@@ -1,0 +1,32 @@
+name: Deploy to GitHub pages
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  BRIDGETOWN_ENV: production
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20.9.0"
+          cache: "yarn"
+      
+      - run: yarn
+
+      - name: Build static sites
+        run: yarn build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.DEPLOY_TOKEN }}
+          publish_dir: ./dist
