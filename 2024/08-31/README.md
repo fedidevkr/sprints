@@ -31,6 +31,8 @@
  -  [Docker Compose 지원 추가](https://github.com/dahlia/hollo/pull/16)
  -  [Meilisearch 의존성 제거](https://github.com/dahlia/hollo/pull/19)
 
-### 김현준 ([@d01c2](https://github.com/d01c2))
+### 한바환 ([@ellemedit](https://github.com/ellemedit))
 
- -  [federation 로직에 대한 유닛 테스트 추가](https://github.com/dahlia/hollo/pull/18)
+- [@fedify/express Node.js request streaming fix](https://github.com/dahlia/fedify-express/pull/1)
+- [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
+- [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
