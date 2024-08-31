@@ -25,3 +25,8 @@
 
 - [caterpillar 코드 리펙토링](https://github.com/gnh1201/caterpillar/pull/45)
 - [Awesome ActivityPub에서 업데이트가 더이상 없는 프로젝트 제거](https://github.com/BasixKOR/awesome-activitypub/pull/50)
+
+### 문성원 ([@longfin](https://github.com/longfin))
+
+ -  [Docker Compose 지원 추가](https://github.com/dahlia/hollo/pull/16)
+ -  [Meilisearch 의존성 제거](https://github.com/dahlia/hollo/pull/19)
