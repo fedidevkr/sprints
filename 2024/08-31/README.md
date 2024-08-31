@@ -45,3 +45,7 @@
 - [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
 - [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
 
+### 이태희 ([@devtedlee](https://github.com/devtedlee))
+
+- [게시글 보기 페이지에 좋아요, 공유 보기 뷰 추가](https://github.com/dahlia/hollo/pull/17)
+- [이용자 뮤트 API 및 DB 테이블 추가](https://github.com/dahlia/hollo/pull/23)
