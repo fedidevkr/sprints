@@ -35,9 +35,9 @@
 
  -  [federation 로직에 대한 유닛 테스트 추가](https://github.com/dahlia/hollo/pull/18)
 
-### 고남현 ([@gnh1201](https;//github.com/gnh1201)
+### 고남현 ([@gnh1201](https;//github.com/gnh1201])
 
- - [BinaryPub 소개 및 코드 정리](https;//github.com/gnh1201/BinaryPub)
+ - [BinaryPub 소개 및 코드 정리](https://github.com/gnh1201/BinaryPub)
 
 ### 한바환 ([@ellemedit](https://github.com/ellemedit))
 
@@ -50,3 +50,27 @@
 자체 개발 PixelFed 클라이언트 QuinJet
 - [masto.js를 응용한 infinity scroll 구현](https://github.com/malkoG/quinjet/pull/7)
 - [프로필 페이지 제작](https://github.com/malkoG/quinjet/pull/8)
+
+### 강응찬 ([@kecan0406](https://github.com/kecan0406))
+
+- [Hollo biome 1.8.3](https://github.com/dahlia/hollo/pull/21)
+
+### 송한서 ([@HanseoSong](https://github.com/HanseoSong))
+
+- [Awesome ActivityPub에서 중단된 프로젝트들 삭제](https://github.com/BasixKOR/awesome-activitypub/commits?author=HanseoSong)
+- [Chamsae에 새로운 디자인 제안](https://github.com/pbzweihander/chamsae/issues/38)
+
+### 신의하 ([@xiniha](https://github.com/XiNiHa))
+
+- [Chamsae의 설정 모달에서 Save 버튼 클릭 시 모달이 닫히도록 개선](https://github.com/pbzweihander/chamsae/pull/34)
+- [Fedify를 dnt 없이도 npm에 배포할 수 있도록 구성 (WIP)](https://github.com/dahlia/fedify/pull/129)
+
+### 김수환 ([@tkgka](https;//github.com/tkgka))
+
+- caterpillar 코드리뷰
+- Mastodon + Misskey API 연동 관련 라이브러리 개발 (현재 [private 레포지토리](https://github.com/nazku-com))
+
+### 이태희 ([@devtedlee](https://github.com/devtedlee))
+
+- [게시글 보기 페이지에 좋아요, 공유 보기 뷰 추가](https://github.com/dahlia/hollo/pull/17)
+- [이용자 뮤트 API 및 DB 테이블 추가](https://github.com/dahlia/hollo/pull/23)
