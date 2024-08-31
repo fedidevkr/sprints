@@ -16,3 +16,8 @@
  -  [Awesome ActivityPub에 Go-ActivityPub 추가](https://github.com/BasixKOR/awesome-activitypub/pull/53)
  -  [Awesome ActivityPub에 Hatsu 추가](https://github.com/BasixKOR/awesome-activitypub/pull/54)
  -  [Awesome ActivityPub에 Hollo 추가](https://github.com/BasixKOR/awesome-activitypub/pull/55)
+
+### 차의서 ([@zeroday0619](https://github.com/zeroday0619))
+
+- [caterpillar 코드 리펙토링](https://github.com/gnh1201/caterpillar/pull/45)
+- [Awesome ActivityPub에서 업데이트가 더이상 없는 프로젝트 제거](https://github.com/BasixKOR/awesome-activitypub/pull/50)
