@@ -38,3 +38,10 @@
 ### 고남현 ([@gnh1201](https;//github.com/gnh1201)
 
  - [BinaryPub 소개 및 코드 정리](https;//github.com/gnh1201/BinaryPub)
+
+### 한바환 ([@ellemedit](https://github.com/ellemedit))
+
+- [@fedify/express Node.js request streaming fix](https://github.com/dahlia/fedify-express/pull/1)
+- [Fedify Express 통합 예제 추가](https://github.com/dahlia/fedify/pull/128)
+- [Fedify Next.js App Router 통합 예제 추가](https://github.com/dahlia/fedify/pull/130)
+
