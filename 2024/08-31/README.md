@@ -35,9 +35,9 @@
 
  -  [federation 로직에 대한 유닛 테스트 추가](https://github.com/dahlia/hollo/pull/18)
 
-### 고남현 ([@gnh1201](https;//github.com/gnh1201)
+### 고남현 ([@gnh1201](https;//github.com/gnh1201])
 
- - [BinaryPub 소개 및 코드 정리](https;//github.com/gnh1201/BinaryPub)
+ - [BinaryPub 소개 및 코드 정리](https://github.com/gnh1201/BinaryPub)
 
 ### 한바환 ([@ellemedit](https://github.com/ellemedit))
 
