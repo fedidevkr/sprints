@@ -16,5 +16,14 @@ export async function GET() {
       description: data.description,
       pubDate: new Date(data.modDatetime ?? data.pubDatetime),
     })),
+    customData: `
+      <icon>${SITE.website}/assets/logo.png</icon>
+      <logo>${SITE.website}/assets/logo.png</logo>
+      <image>
+        <url>${SITE.website}/assets/logo.png</url>
+        <title>${SITE.title}</title>
+        <link>${SITE.website}</link>
+      </image>
+    `
   });
 }

@@ -15,6 +15,7 @@ export interface Props {
   pubDatetime?: Date;
   modDatetime?: Date | null;
   scrollSmooth?: boolean;
+  apLink?: boolean;
 }
 
 const {
@@ -27,6 +28,7 @@ const {
   pubDatetime,
   modDatetime,
   scrollSmooth = false,
+  apLink = false,
 } = Astro.props;
 
 const socialImageURL = new URL(
@@ -70,6 +72,15 @@ const structuredData = {
     <meta name="author" content={author} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="alternate" type="application/rss+xml" title="RSS 피드" href="/rss.xml" />
+    {
+      apLink && (
+        <link
+          rel="alternate"
+          type="application/activity+json"
+          href={`https://ap.sprints.fedidev.kr/posts/${canonicalURL}`}
+        />
+      )
+    }
 
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />

@@ -1,8 +1,8 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://fedidev.kr", // replace this with your deployed domain
-  author: "Fedi Dev KR",
+  website: "https://sprints.fedidev.kr",
+  author: "FediDev KR",
   profile: "https://fedidev.kr",
   desc: "한국에 거주하거나 한국어를 사용하는 연합우주(fediverse) 개발자들의 모임입니다.",
   title: "한국 페디버스 개발자 모임",

@@ -1,0 +1,9 @@
+{
+  "links": [
+    {
+      "rel": "lrdd",
+      "type": "application/json",
+      "template": "https://ap.sprints.fedidev.kr/.well-known/webfinger?resource={uri}"
+    }
+  ]
+}

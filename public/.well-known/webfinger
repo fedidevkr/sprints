@@ -1,0 +1,17 @@
+{
+  "subject": "acct:sprints.fedidev.kr@sprints.fedidev.kr",
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://ap.sprints.fedidev.kr/users/sprints.fedidev.kr",
+      "template": null
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://ap.sprints.fedidev.kr/users/sprints.fedidev.kr",
+      "template": null
+    }
+  ]
+}
