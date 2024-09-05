@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "rel": "http://nodeinfo.diaspora.software/ns/schema/2.1",
+      "href": "https://ap.sprints.fedidev.kr/nodeinfo/2.1.json"
+    },
+    {
+      "rel": "http://nodeinfo.diaspora.software/ns/schema/2.0",
+      "href": "https://ap.sprints.fedidev.kr/nodeinfo/2.0.json"
+    }
+  ]
+}
