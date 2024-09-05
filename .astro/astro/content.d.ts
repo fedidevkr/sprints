@@ -141,12 +141,12 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
-"2024-08-31-240831-sprint.md": {
-	id: "2024-08-31-240831-sprint.md";
+"2024-08-30-240831-sprint.md": {
+	id: "2024-08-30-240831-sprint.md";
   slug: "2024-08-31-sprint";
   body: string;
   collection: "blog";
-  data: any
+  data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 };
 
@@ -163,5 +163,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../../src/content/config.js");
 }
