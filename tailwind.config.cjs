@@ -57,6 +57,7 @@ module.exports = {
       },
       fontFamily: {
         mono: ["IBM Plex Mono", "monospace"],
+        sans: ["Pretendard Variable"],
       },
 
       typography: {
