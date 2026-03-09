@@ -58,6 +58,15 @@ description: 2026년 3월 1일/2일, 해커스펍 리뉴얼을 위한 스프린�
 
 - [Remote Follow 기능 추가](https://github.com/hackers-pub/hackerspub/pull/214)
 
+### 서지혁 ([@limeburst](https://github.com/limeburst))]
+
+#### Hackers' Pub (iOS)
+
+[커밋 로그](https://github.com/hackers-pub/ios/commits/main/?author=limeburst&since=2026-03-01&until=2026-03-01)
+
+- 리스트 렌더링 방식 개선: Timeline, Notifications, Explore, Search 뷰에서 SwiftUI `List`를 `ScrollView + LazyVStack(spacing: 0)`으로 교체.
+- 타임라인 새로고침 로직 단순화: gap filling 로직을 제거하고 항상 전체 새로고침하도록 변경.
+
 ### 이하제 ([@Nebu1eto](https://github.com/Nebu1eto))
 
 #### Hackers' Pub (web-next)
